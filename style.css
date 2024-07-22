@@ -20,3 +20,9 @@
 .cierreLegal {
     font-size: 20px;
 }
+
+main a:hover {
+    background-color: white!important;
+    color: #c85000!important;
+    font-weight: bolder;
+}
